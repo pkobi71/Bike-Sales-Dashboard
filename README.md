@@ -6,4 +6,4 @@ The dashboard uses a combination of Filters, Charts, and Pivot Tables to display
 Users can click on the filters to show different pieces of information.
 
 # Source Dataset
-The source dataset is under the file name "Excel Project Dataset.xlsx"
+The source dataset is under the file name "Bike Sales Dataset.xlsx"
